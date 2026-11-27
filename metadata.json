@@ -1,0 +1,6 @@
+{
+  "name": "CampusCopilot",
+  "description": "AI-Powered Student Success & Campus Assistant — A unified digital campus platform for students, faculty, placement coordinators, and administrators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
